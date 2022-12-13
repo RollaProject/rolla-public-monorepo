@@ -1,0 +1,19 @@
+{
+  "name": "@rolla-finance/rolla-public-monorepo",
+  "version": "0.1.0",
+  "description": "The Rolla monorepo contains all the packages wrt to Rolla's quant protocol, such as the auth, bridge, etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RollaProject/rolla-public-monorepo.git"
+  },
+  "author": "Rolla Finance",
+  "license": "BSL-1.0",
+  "bugs": {
+    "url": "https://github.com/RollaProject/rolla-public-monorepo/issues"
+  },
+  "homepage": "https://github.com/RollaProject/rolla-public-monorepo#readme"
+}
